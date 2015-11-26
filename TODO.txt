@@ -1,3 +1,6 @@
 sites a scanner:
 -voyages-sncf.com
 -tyanair.com
+
+Application lourde:
+Technologie Swing
